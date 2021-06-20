@@ -1,2 +1,1 @@
-# umd-cmsc131-java
-2018
+# Object-Oriented Programming I (Java)
